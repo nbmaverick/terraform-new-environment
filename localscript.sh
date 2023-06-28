@@ -4,4 +4,4 @@ echo 'export PATH="$HOME/.tfenv/bin:$PATH"' >> ~/.bash_profile
 sudo ln -s ~/.tfenv/bin/* /usr/local/bin
 
 # bash localscript.sh
-tfenv
+tfenv install 1.1.1
